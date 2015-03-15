@@ -126,6 +126,20 @@ body {
 	
 }
 
+.experiencetitle {
+	font-size: 28px;
+	line-height: 1.2;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+.experiencedetail {
+	font-size: 16px;
+	line-height: 1.2;
+	padding-left: 10px;
+	padding-bottom: 14px;
+}
+
 .info {
 	clear: both;
 	display: inline-block;
@@ -145,6 +159,31 @@ body {
 	display: inline-block;
 	float: right;
 	margin-right: 50px;
+}
+
+.educationbullets{
+	margin-left: 60px;
+	list-style: circle;
+	line-height: 1.4;
+	font-size: 20px;
+}
+
+.bullet {
+	margin-bottom: 30px;
+	font-size: 18px;
+}
+
+.articleitem {
+	font-size: 18px;
+	margin-left: 10px;
+	line-height: 1.4;
+	margin-bottom: 26px;
+}
+
+strong {
+	
+	font-style: bold;
+	text-decoration: underline;
 }
 
 footer {
